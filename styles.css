@@ -1,0 +1,39 @@
+.hero-section {
+    
+    background: url('img/Default_A_vibrant_oil_painting_depicting_a_beautiful_beach_hou_3.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 4rem;
+}
+
+.hero-section p {
+    font-size: 1.5rem;
+}
+
+.destinations .card {
+    margin-bottom: 20px;
+}
+
+
+.footer {
+    background: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.changeButton{
+    background-color: blueviolet;
+    width: 20px;
+    height: 20px;
+}
+.btn-primary{
+    background-color: #FF8F35;
+}
